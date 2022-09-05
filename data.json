@@ -1,0 +1,55 @@
+﻿{
+  "ejemplo": [
+    {
+      "version": "1.XX.X",
+      "date": "X X/X/202X",
+      "bytes": "X MB",
+      "URL": "https://shortmcbe.ml/apk1XXX",
+      "test": true
+    }
+  ],
+  "1.19":[
+    {
+      "version": "1.19.22",
+      "date": "Jueves 01/Sep/2022",
+      "bytes": "156 MB",
+      "URL": "https://shortmcbe.ml/apk11922"
+    },
+    {
+      "version": "1.19.21",
+      "date": "Martes 23/Ago/2022",
+      "bytes": "156 MB",
+      "URL": "https://shortmcbe.ml/apk11921"
+    },
+    {
+      "version": "1.19.20",
+      "date": "Martes 09/Ago/2022",
+      "bytes": "156 MB",
+      "URL": "https://shortmcbe.ml/apk11920"
+    },
+    {
+      "version": "1.19.11",
+      "date": "Martes 26/Jul/2022",
+      "bytes": "155 MB",
+      "URL": "https://shortmcbe.ml/apk11911"
+    },
+    {
+      "version": "1.19.10",
+      "date": "Martes 12/Jul/2022",
+      "bytes": "155 MB",
+      "URL": "https://shortmcbe.ml/apk11910"
+    },
+    {
+      "version": "1.19.2",
+      "date": "Miércoles 22/Jun/2022",
+      "bytes": "152 MB",
+      "URL": "https://shortmcbe.ml/apk1192"
+    },
+    {
+      "version": "1.19.0",
+      "date": "Martes 07/Jun/2022",
+      "bytes": "152 MB",
+      "URL": "https://shortmcbe.ml/apk1190"
+    }
+  ]
+}
